@@ -81,8 +81,8 @@ like: 1. Manage Students\
 Example transcript generation:
 
 ``` text
-Student: Arti Sharma
-Reg No: 23BCE10922
+Student: riya Sharma
+Reg No: 123456
 Course: CSE2006 - Programming in Java
 Grade: A
 GPA: 8.7
@@ -135,7 +135,7 @@ GPA: 8.7
 
 ------------------------------------------------------------------------
 
-## 🧪 Mapping Syllabus Topics → Code
+## Mapping Syllabus Topics → Code
 
   Syllabus Topic       Where Implemented
   -------------------- ---------------------------------------------------
