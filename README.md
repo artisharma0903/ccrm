@@ -29,7 +29,7 @@ This project is part of the **Programming in Java (CSE2006)** course.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Tech Highlights
+## Tech Highlights
 
 -   **Java SE 17+**\
 -   **OOP Pillars**: Encapsulation, Inheritance, Abstraction,
@@ -99,15 +99,6 @@ GPA: 8.7
      ├─ io/         → Import/Export, Backup utilities
      ├─ util/       → Validators, Comparators, Recursive file utils
      └─ config/     → Singleton AppConfig, Builders
-
-------------------------------------------------------------------------
-
-## 📸 Screenshots
-
--   [ ] JDK installation (`java -version`)\
--   [ ] Eclipse project setup & run\
--   [ ] CLI menu running\
--   [ ] Export/Backup folder structure
 
 ------------------------------------------------------------------------
 
